@@ -1,0 +1,981 @@
+,Year,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Match Winner
+0,1930.0,France,4.0,1.0,Mexico, ,4444.0,France
+1,1930.0,USA,3.0,0.0,Belgium, ,18346.0,USA
+2,1930.0,Yugoslavia,2.0,1.0,Brazil, ,24059.0,Yugoslavia
+3,1930.0,Romania,3.0,1.0,Peru, ,2549.0,Romania
+4,1930.0,Argentina,1.0,0.0,France, ,23409.0,Argentina
+5,1930.0,Chile,3.0,0.0,Mexico, ,9249.0,Chile
+6,1930.0,Yugoslavia,4.0,0.0,Bolivia, ,18306.0,Yugoslavia
+7,1930.0,USA,3.0,0.0,Paraguay, ,18306.0,USA
+8,1930.0,Uruguay,1.0,0.0,Peru, ,57735.0,Uruguay
+9,1930.0,Chile,1.0,0.0,France, ,2000.0,Chile
+10,1930.0,Argentina,6.0,3.0,Mexico, ,42100.0,Argentina
+11,1930.0,Brazil,4.0,0.0,Bolivia, ,25466.0,Brazil
+12,1930.0,Paraguay,1.0,0.0,Belgium, ,12000.0,Paraguay
+13,1930.0,Uruguay,4.0,0.0,Romania, ,70022.0,Uruguay
+14,1930.0,Argentina,3.0,1.0,Chile, ,41459.0,Argentina
+15,1930.0,Argentina,6.0,1.0,USA, ,72886.0,Argentina
+16,1930.0,Uruguay,6.0,1.0,Yugoslavia, ,79867.0,Uruguay
+17,1930.0,Uruguay,4.0,2.0,Argentina, ,68346.0,Uruguay
+18,1934.0,Austria,3.0,2.0,France,Austria win after extra time ,16000.0,Austria
+19,1934.0,Hungary,4.0,2.0,Egypt, ,9000.0,Hungary
+20,1934.0,Switzerland,3.0,2.0,Netherlands, ,33000.0,Switzerland
+21,1934.0,Sweden,3.0,2.0,Argentina, ,14000.0,Sweden
+22,1934.0,Germany,5.0,2.0,Belgium, ,8000.0,Germany
+23,1934.0,Spain,3.0,1.0,Brazil, ,21000.0,Spain
+24,1934.0,Italy,7.0,1.0,USA, ,25000.0,Italy
+25,1934.0,Czechoslovakia,2.0,1.0,Romania, ,9000.0,Czechoslovakia
+26,1934.0,Czechoslovakia,3.0,2.0,Switzerland, ,12000.0,Czechoslovakia
+27,1934.0,Germany,2.0,1.0,Sweden, ,3000.0,Germany
+28,1934.0,Italy,1.0,1.0,Spain, ,35000.0,tie
+29,1934.0,Austria,2.0,1.0,Hungary, ,23000.0,Austria
+30,1934.0,Italy,1.0,0.0,Spain, ,43000.0,Italy
+31,1934.0,Italy,1.0,0.0,Austria, ,35000.0,Italy
+32,1934.0,Czechoslovakia,3.0,1.0,Germany, ,15000.0,Czechoslovakia
+33,1934.0,Germany,3.0,2.0,Austria, ,7000.0,Germany
+34,1934.0,Italy,2.0,1.0,Czechoslovakia,Italy win after extra time ,55000.0,Italy
+35,1938.0,Switzerland,1.0,1.0,Germany, ,27152.0,tie
+36,1938.0,Hungary,6.0,0.0,Indonesia, ,9000.0,Hungary
+37,1938.0,France,3.0,1.0,Belgium, ,30454.0,France
+38,1938.0,Cuba,3.0,3.0,Romania, ,7000.0,tie
+39,1938.0,Italy,2.0,1.0,Norway,Italy win after extra time ,19000.0,Italy
+40,1938.0,Brazil,6.0,5.0,Poland,Brazil win after extra time ,13452.0,Brazil
+41,1938.0,Czechoslovakia,3.0,0.0,Netherlands,Czechoslovakia win after extra time ,11000.0,Czechoslovakia
+42,1938.0,Cuba,2.0,1.0,Romania, ,8000.0,Cuba
+43,1938.0,Switzerland,4.0,2.0,Germany, ,20025.0,Switzerland
+44,1938.0,Brazil,1.0,1.0,Czechoslovakia, ,22021.0,tie
+45,1938.0,Hungary,2.0,0.0,Switzerland, ,15000.0,Hungary
+46,1938.0,Sweden,8.0,0.0,Cuba, ,7000.0,Sweden
+47,1938.0,Italy,3.0,1.0,France, ,58455.0,Italy
+48,1938.0,Brazil,2.0,1.0,Czechoslovakia, ,18141.0,Brazil
+49,1938.0,Hungary,5.0,1.0,Sweden, ,20000.0,Hungary
+50,1938.0,Italy,2.0,1.0,Brazil, ,33000.0,Italy
+51,1938.0,Brazil,4.0,2.0,Sweden, ,12000.0,Brazil
+52,1938.0,Italy,4.0,2.0,Hungary, ,45000.0,Italy
+53,1950.0,Brazil,4.0,0.0,Mexico, ,81649.0,Brazil
+54,1950.0,England,2.0,0.0,Chile, ,29703.0,England
+55,1950.0,Spain,3.0,1.0,USA, ,9511.0,Spain
+56,1950.0,Sweden,3.0,2.0,Italy, ,36502.0,Sweden
+57,1950.0,Yugoslavia,3.0,0.0,Switzerland, ,7336.0,Yugoslavia
+58,1950.0,Brazil,2.0,2.0,Switzerland, ,42032.0,tie
+59,1950.0,Yugoslavia,4.0,1.0,Mexico, ,11078.0,Yugoslavia
+60,1950.0,Spain,2.0,0.0,Chile, ,19790.0,Spain
+61,1950.0,Sweden,2.0,2.0,Paraguay, ,7903.0,tie
+62,1950.0,USA,1.0,0.0,England, ,10151.0,USA
+63,1950.0,Brazil,2.0,0.0,Yugoslavia, ,142429.0,Brazil
+64,1950.0,Spain,1.0,0.0,England, ,74462.0,Spain
+65,1950.0,Italy,2.0,0.0,Paraguay, ,25811.0,Italy
+66,1950.0,Uruguay,8.0,0.0,Bolivia, ,5284.0,Uruguay
+67,1950.0,Switzerland,2.0,1.0,Mexico, ,3580.0,Switzerland
+68,1950.0,Chile,5.0,2.0,USA, ,8501.0,Chile
+69,1950.0,Uruguay,2.0,2.0,Spain, ,44802.0,tie
+70,1950.0,Brazil,7.0,1.0,Sweden, ,138886.0,Brazil
+71,1950.0,Brazil,6.0,1.0,Spain, ,152772.0,Brazil
+72,1950.0,Uruguay,3.0,2.0,Sweden, ,7987.0,Uruguay
+73,1950.0,Sweden,3.0,1.0,Spain, ,11227.0,Sweden
+74,1950.0,Uruguay,2.0,1.0,Brazil, ,173850.0,Uruguay
+75,1954.0,Uruguay,2.0,0.0,Czechoslovakia, ,20500.0,Uruguay
+76,1954.0,Austria,1.0,0.0,Scotland, ,25000.0,Austria
+77,1954.0,Brazil,5.0,0.0,Mexico, ,13470.0,Brazil
+78,1954.0,Yugoslavia,1.0,0.0,France, ,16000.0,Yugoslavia
+79,1954.0,Germany,4.0,1.0,Turkey, ,28000.0,Germany
+80,1954.0,Hungary,9.0,0.0,South Korea, ,13000.0,Hungary
+81,1954.0,England,4.0,4.0,Belgium, ,14000.0,tie
+82,1954.0,Switzerland,2.0,1.0,Italy, ,43000.0,Switzerland
+83,1954.0,Uruguay,7.0,0.0,Scotland, ,34000.0,Uruguay
+84,1954.0,Austria,5.0,0.0,Czechoslovakia, ,26000.0,Austria
+85,1954.0,France,3.0,2.0,Mexico, ,19000.0,France
+86,1954.0,Brazil,1.0,1.0,Yugoslavia, ,24637.0,tie
+87,1954.0,Hungary,8.0,3.0,Germany, ,56000.0,Hungary
+88,1954.0,Turkey,7.0,0.0,South Korea, ,4000.0,Turkey
+89,1954.0,England,2.0,0.0,Switzerland, ,43500.0,England
+90,1954.0,Italy,4.0,1.0,Belgium, ,24000.0,Italy
+91,1954.0,Germany,7.0,2.0,Turkey, ,17000.0,Germany
+92,1954.0,Switzerland,4.0,1.0,Italy, ,30000.0,Switzerland
+93,1954.0,Uruguay,4.0,2.0,England, ,28000.0,Uruguay
+94,1954.0,Austria,7.0,5.0,Switzerland, ,35000.0,Austria
+95,1954.0,Germany,2.0,0.0,Yugoslavia, ,17000.0,Germany
+96,1954.0,Hungary,4.0,2.0,Brazil, ,40000.0,Hungary
+97,1954.0,Germany,6.0,1.0,Austria, ,58000.0,Germany
+98,1954.0,Hungary,4.0,2.0,Uruguay,Hungary win after extra time ,45000.0,Hungary
+99,1954.0,Austria,3.0,1.0,Uruguay, ,32000.0,Austria
+100,1954.0,Germany,3.0,2.0,Hungary, ,62500.0,Germany
+101,1958.0,Sweden,3.0,0.0,Mexico, ,34107.0,Sweden
+102,1958.0,Russia,2.0,2.0,England, ,49348.0,tie
+103,1958.0,Argentina,1.0,3.0,Germany, ,31156.0,Germany
+104,1958.0,Hungary,1.0,1.0,Wales, ,15343.0,tie
+105,1958.0,France,7.0,3.0,Paraguay, ,16518.0,France
+106,1958.0,Yugoslavia,1.0,1.0,Scotland, ,9591.0,tie
+107,1958.0,Brazil,3.0,0.0,Austria, ,17788.0,Brazil
+108,1958.0,Northern Ireland,1.0,0.0,Czechoslovakia, ,10647.0,Northern Ireland
+109,1958.0,Brazil,0.0,0.0,England, ,40895.0,tie
+110,1958.0,Mexico,1.0,1.0,Wales, ,15150.0,tie
+111,1958.0,Paraguay,3.0,2.0,Scotland, ,11665.0,Paraguay
+112,1958.0,Yugoslavia,3.0,2.0,France, ,12217.0,Yugoslavia
+113,1958.0,Russia,2.0,0.0,Austria, ,21239.0,Russia
+114,1958.0,Germany,2.0,2.0,Czechoslovakia, ,25000.0,tie
+115,1958.0,Argentina,3.0,1.0,Northern Ireland, ,14174.0,Argentina
+116,1958.0,Sweden,2.0,1.0,Hungary, ,38850.0,Sweden
+117,1958.0,Sweden,0.0,0.0,Wales, ,30287.0,tie
+118,1958.0,Brazil,2.0,0.0,Russia, ,50928.0,Brazil
+119,1958.0,Germany,2.0,2.0,Northern Ireland, ,21990.0,tie
+120,1958.0,Hungary,4.0,0.0,Mexico, ,13300.0,Hungary
+121,1958.0,Paraguay,3.0,3.0,Yugoslavia, ,13103.0,tie
+122,1958.0,France,2.0,1.0,Scotland, ,13554.0,France
+123,1958.0,England,2.0,2.0,Austria, ,15872.0,tie
+124,1958.0,Czechoslovakia,6.0,1.0,Argentina, ,16418.0,Czechoslovakia
+125,1958.0,Russia,1.0,0.0,England, ,23182.0,Russia
+126,1958.0,Northern Ireland,2.0,1.0,Czechoslovakia,Northern Ireland win after extra time ,6196.0,Northern Ireland
+127,1958.0,Wales,2.0,1.0,Hungary, ,2823.0,Wales
+128,1958.0,Brazil,1.0,0.0,Wales, ,25923.0,Brazil
+129,1958.0,Germany,1.0,0.0,Yugoslavia, ,20055.0,Germany
+130,1958.0,Sweden,2.0,0.0,Russia, ,31900.0,Sweden
+131,1958.0,France,4.0,0.0,Northern Ireland, ,11800.0,France
+132,1958.0,Sweden,3.0,1.0,Germany, ,49471.0,Sweden
+133,1958.0,Brazil,5.0,2.0,France, ,27100.0,Brazil
+134,1958.0,France,6.0,3.0,Germany, ,32483.0,France
+135,1958.0,Brazil,5.0,2.0,Sweden, ,49737.0,Brazil
+136,1962.0,Uruguay,2.0,1.0,Colombia, ,7908.0,Uruguay
+137,1962.0,Brazil,2.0,0.0,Mexico, ,10484.0,Brazil
+138,1962.0,Argentina,1.0,0.0,Bulgaria, ,7134.0,Argentina
+139,1962.0,Chile,3.0,1.0,Switzerland, ,65006.0,Chile
+140,1962.0,Russia,2.0,0.0,Yugoslavia, ,9622.0,Russia
+141,1962.0,Czechoslovakia,1.0,0.0,Spain, ,12700.0,Czechoslovakia
+142,1962.0,Hungary,2.0,1.0,England, ,7938.0,Hungary
+143,1962.0,Germany,0.0,0.0,Italy, ,65440.0,tie
+144,1962.0,Yugoslavia,3.0,1.0,Uruguay, ,8829.0,Yugoslavia
+145,1962.0,Brazil,0.0,0.0,Czechoslovakia, ,14903.0,tie
+146,1962.0,England,3.0,1.0,Argentina, ,9794.0,England
+147,1962.0,Chile,2.0,0.0,Italy, ,66057.0,Chile
+148,1962.0,Russia,4.0,4.0,Colombia, ,8040.0,tie
+149,1962.0,Spain,1.0,0.0,Mexico, ,11875.0,Spain
+150,1962.0,Hungary,6.0,1.0,Bulgaria, ,7442.0,Hungary
+151,1962.0,Germany,2.0,1.0,Switzerland, ,64922.0,Germany
+152,1962.0,Russia,2.0,1.0,Uruguay, ,9973.0,Russia
+153,1962.0,Brazil,2.0,1.0,Spain, ,18715.0,Brazil
+154,1962.0,Hungary,0.0,0.0,Argentina, ,7945.0,tie
+155,1962.0,Germany,2.0,0.0,Chile, ,67224.0,Germany
+156,1962.0,Yugoslavia,5.0,0.0,Colombia, ,7167.0,Yugoslavia
+157,1962.0,Mexico,3.0,1.0,Czechoslovakia, ,10648.0,Mexico
+158,1962.0,England,0.0,0.0,Bulgaria, ,5700.0,tie
+159,1962.0,Italy,3.0,0.0,Switzerland, ,59828.0,Italy
+160,1962.0,Chile,2.0,1.0,Russia, ,17268.0,Chile
+161,1962.0,Brazil,3.0,1.0,England, ,17736.0,Brazil
+162,1962.0,Czechoslovakia,1.0,0.0,Hungary, ,11690.0,Czechoslovakia
+163,1962.0,Yugoslavia,1.0,0.0,Germany, ,63324.0,Yugoslavia
+164,1962.0,Czechoslovakia,3.0,1.0,Yugoslavia, ,5890.0,Czechoslovakia
+165,1962.0,Brazil,4.0,2.0,Chile, ,76594.0,Brazil
+166,1962.0,Chile,1.0,0.0,Yugoslavia, ,66697.0,Chile
+167,1962.0,Brazil,3.0,1.0,Czechoslovakia, ,68679.0,Brazil
+168,1966.0,England,0.0,0.0,Uruguay, ,87148.0,tie
+169,1966.0,Germany,5.0,0.0,Switzerland, ,36127.0,Germany
+170,1966.0,Brazil,2.0,0.0,Bulgaria, ,47308.0,Brazil
+171,1966.0,Russia,3.0,0.0,Korea DPR, ,23006.0,Russia
+172,1966.0,France,1.0,1.0,Mexico, ,69237.0,tie
+173,1966.0,Portugal,3.0,1.0,Hungary, ,29886.0,Portugal
+174,1966.0,Argentina,2.0,1.0,Spain, ,42738.0,Argentina
+175,1966.0,Italy,2.0,0.0,Chile, ,27199.0,Italy
+176,1966.0,Uruguay,2.0,1.0,France, ,45662.0,Uruguay
+177,1966.0,Spain,2.0,1.0,Switzerland, ,32028.0,Spain
+178,1966.0,Hungary,3.0,1.0,Brazil, ,51387.0,Hungary
+179,1966.0,Korea DPR,1.0,1.0,Chile, ,13792.0,tie
+180,1966.0,Portugal,3.0,0.0,Bulgaria, ,25438.0,Portugal
+181,1966.0,Germany,0.0,0.0,Argentina, ,46587.0,tie
+182,1966.0,Russia,1.0,0.0,Italy, ,27793.0,Russia
+183,1966.0,England,2.0,0.0,Mexico, ,92570.0,England
+184,1966.0,Uruguay,0.0,0.0,Mexico, ,61112.0,tie
+185,1966.0,Argentina,2.0,0.0,Switzerland, ,32127.0,Argentina
+186,1966.0,Portugal,3.0,1.0,Brazil, ,58479.0,Portugal
+187,1966.0,Korea DPR,1.0,0.0,Italy, ,17829.0,Korea DPR
+188,1966.0,England,2.0,0.0,France, ,98270.0,England
+189,1966.0,Hungary,3.0,1.0,Bulgaria, ,24129.0,Hungary
+190,1966.0,Germany,2.0,1.0,Spain, ,42187.0,Germany
+191,1966.0,Russia,2.0,1.0,Chile, ,16027.0,Russia
+192,1966.0,England,1.0,0.0,Argentina, ,90584.0,England
+193,1966.0,Germany,4.0,0.0,Uruguay, ,40007.0,Germany
+194,1966.0,Russia,2.0,1.0,Hungary, ,26844.0,Russia
+195,1966.0,Portugal,5.0,3.0,Korea DPR, ,40248.0,Portugal
+196,1966.0,Germany,2.0,1.0,Russia, ,38273.0,Germany
+197,1966.0,England,2.0,1.0,Portugal, ,94493.0,England
+198,1966.0,Portugal,2.0,1.0,Russia, ,87696.0,Portugal
+199,1966.0,England,4.0,2.0,Germany,England win after extra time ,96924.0,England
+200,1970.0,Mexico,0.0,0.0,Russia, ,107160.0,tie
+201,1970.0,Uruguay,2.0,0.0,Israel, ,20654.0,Uruguay
+202,1970.0,Peru,3.0,2.0,Bulgaria, ,13765.0,Peru
+203,1970.0,England,1.0,0.0,Romania, ,50560.0,England
+204,1970.0,Italy,1.0,0.0,Sweden, ,13433.0,Italy
+205,1970.0,Germany,2.0,1.0,Morocco, ,12942.0,Germany
+206,1970.0,Brazil,4.0,1.0,Czechoslovakia, ,52897.0,Brazil
+207,1970.0,Belgium,3.0,0.0,El Salvador, ,92205.0,Belgium
+208,1970.0,Uruguay,0.0,0.0,Italy, ,29968.0,tie
+209,1970.0,Peru,3.0,0.0,Morocco, ,13537.0,Peru
+210,1970.0,Romania,2.0,1.0,Czechoslovakia, ,56818.0,Romania
+211,1970.0,Russia,4.0,1.0,Belgium, ,95261.0,Russia
+212,1970.0,Sweden,1.0,1.0,Israel, ,9624.0,tie
+213,1970.0,Germany,5.0,2.0,Bulgaria, ,12710.0,Germany
+214,1970.0,Brazil,1.0,0.0,England, ,66843.0,Brazil
+215,1970.0,Mexico,4.0,0.0,El Salvador, ,103058.0,Mexico
+216,1970.0,Sweden,1.0,0.0,Uruguay, ,18163.0,Sweden
+217,1970.0,Germany,3.0,1.0,Peru, ,17875.0,Germany
+218,1970.0,Brazil,3.0,2.0,Romania, ,50804.0,Brazil
+219,1970.0,Russia,2.0,0.0,El Salvador, ,89979.0,Russia
+220,1970.0,Italy,0.0,0.0,Israel, ,9890.0,tie
+221,1970.0,Bulgaria,1.0,1.0,Morocco, ,12299.0,tie
+222,1970.0,England,1.0,0.0,Czechoslovakia, ,49292.0,England
+223,1970.0,Mexico,1.0,0.0,Belgium, ,108192.0,Mexico
+224,1970.0,Italy,4.0,1.0,Mexico, ,26851.0,Italy
+225,1970.0,Germany,3.0,2.0,England,Germany FR win after extra time ,23357.0,Germany
+226,1970.0,Brazil,4.0,2.0,Peru, ,54233.0,Brazil
+227,1970.0,Uruguay,1.0,0.0,Russia,Uruguay win after extra time ,26085.0,Uruguay
+228,1970.0,Brazil,3.0,1.0,Uruguay, ,51261.0,Brazil
+229,1970.0,Italy,4.0,3.0,Germany,Italy win after extra time ,102444.0,Italy
+230,1970.0,Germany,1.0,0.0,Uruguay, ,104403.0,Germany
+231,1970.0,Brazil,4.0,1.0,Italy, ,107412.0,Brazil
+232,1974.0,Brazil,0.0,0.0,Yugoslavia, ,62000.0,tie
+233,1974.0,Germany,1.0,0.0,Chile, ,81100.0,Germany
+234,1974.0,Germany,2.0,0.0,Australia, ,17000.0,Germany
+235,1974.0,Zaire,0.0,2.0,Scotland, ,27000.0,Scotland
+236,1974.0,Uruguay,0.0,2.0,Netherlands, ,55100.0,Netherlands
+237,1974.0,Sweden,0.0,0.0,Bulgaria, ,23800.0,tie
+238,1974.0,Italy,3.0,1.0,Haiti, ,53000.0,Italy
+239,1974.0,Poland,3.0,2.0,Argentina, ,32700.0,Poland
+240,1974.0,Australia,0.0,3.0,Germany, ,53300.0,Germany
+241,1974.0,Scotland,0.0,0.0,Brazil, ,62000.0,tie
+242,1974.0,Chile,1.0,1.0,Germany, ,28300.0,tie
+243,1974.0,Yugoslavia,9.0,0.0,Zaire, ,31700.0,Yugoslavia
+244,1974.0,Netherlands,0.0,0.0,Sweden, ,53700.0,tie
+245,1974.0,Bulgaria,1.0,1.0,Uruguay, ,13400.0,tie
+246,1974.0,Haiti,0.0,7.0,Poland, ,25300.0,Poland
+247,1974.0,Argentina,1.0,1.0,Italy, ,70100.0,tie
+248,1974.0,Scotland,1.0,1.0,Yugoslavia, ,56000.0,tie
+249,1974.0,Australia,0.0,0.0,Chile, ,17400.0,tie
+250,1974.0,Zaire,0.0,3.0,Brazil, ,36200.0,Brazil
+251,1974.0,Germany,1.0,0.0,Germany, ,60200.0,Germany
+252,1974.0,Bulgaria,1.0,4.0,Netherlands, ,53300.0,Netherlands
+253,1974.0,Argentina,4.0,1.0,Haiti, ,25900.0,Argentina
+254,1974.0,Sweden,3.0,0.0,Uruguay, ,28300.0,Sweden
+255,1974.0,Poland,2.0,1.0,Italy, ,70100.0,Poland
+256,1974.0,Yugoslavia,0.0,2.0,Germany, ,67385.0,Germany
+257,1974.0,Brazil,1.0,0.0,Germany, ,59863.0,Brazil
+258,1974.0,Netherlands,4.0,0.0,Argentina, ,56548.0,Netherlands
+259,1974.0,Sweden,0.0,1.0,Poland, ,44955.0,Poland
+260,1974.0,Argentina,1.0,2.0,Brazil, ,39400.0,Brazil
+261,1974.0,Poland,2.0,1.0,Yugoslavia, ,58000.0,Poland
+262,1974.0,Germany,0.0,2.0,Netherlands, ,68348.0,Netherlands
+263,1974.0,Germany,4.0,2.0,Sweden, ,67800.0,Germany
+264,1974.0,Poland,0.0,1.0,Germany, ,62000.0,Germany
+265,1974.0,Netherlands,2.0,0.0,Brazil, ,53700.0,Netherlands
+266,1974.0,Argentina,1.0,1.0,Germany, ,54254.0,tie
+267,1974.0,Sweden,2.0,1.0,Yugoslavia, ,41300.0,Sweden
+268,1974.0,Brazil,0.0,1.0,Poland, ,77100.0,Poland
+269,1974.0,Netherlands,1.0,2.0,Germany, ,78200.0,Germany
+270,1978.0,Germany,0.0,0.0,Poland, ,67579.0,tie
+271,1978.0,Italy,2.0,1.0,France, ,42373.0,Italy
+272,1978.0,Tunisia,3.0,1.0,Mexico, ,17396.0,Tunisia
+273,1978.0,Argentina,2.0,1.0,Hungary, ,71615.0,Argentina
+274,1978.0,Sweden,1.0,1.0,Brazil, ,32569.0,tie
+275,1978.0,Austria,2.0,1.0,Spain, ,40841.0,Austria
+276,1978.0,Peru,3.0,1.0,Scotland, ,37927.0,Peru
+277,1978.0,Netherlands,3.0,0.0,Iran, ,33431.0,Netherlands
+278,1978.0,Italy,3.0,1.0,Hungary, ,26533.0,Italy
+279,1978.0,Poland,1.0,0.0,Tunisia, ,9624.0,Poland
+280,1978.0,Germany,6.0,0.0,Mexico, ,35258.0,Germany
+281,1978.0,Argentina,2.0,1.0,France, ,71666.0,Argentina
+282,1978.0,Brazil,0.0,0.0,Spain, ,34771.0,tie
+283,1978.0,Austria,1.0,0.0,Sweden, ,41424.0,Austria
+284,1978.0,Scotland,1.0,1.0,Iran, ,7938.0,tie
+285,1978.0,Netherlands,0.0,0.0,Peru, ,28125.0,tie
+286,1978.0,France,3.0,1.0,Hungary, ,23127.0,France
+287,1978.0,Poland,3.0,1.0,Mexico, ,22651.0,Poland
+288,1978.0,Germany,0.0,0.0,Tunisia, ,30667.0,tie
+289,1978.0,Italy,1.0,0.0,Argentina, ,71712.0,Italy
+290,1978.0,Brazil,1.0,0.0,Austria, ,35221.0,Brazil
+291,1978.0,Spain,1.0,0.0,Sweden, ,42132.0,Spain
+292,1978.0,Peru,4.0,1.0,Iran, ,21262.0,Peru
+293,1978.0,Scotland,3.0,2.0,Netherlands, ,35130.0,Scotland
+294,1978.0,Germany,0.0,0.0,Italy, ,67547.0,tie
+295,1978.0,Netherlands,5.0,1.0,Austria, ,25050.0,Netherlands
+296,1978.0,Brazil,3.0,0.0,Peru, ,31278.0,Brazil
+297,1978.0,Argentina,2.0,0.0,Poland, ,37091.0,Argentina
+298,1978.0,Poland,1.0,0.0,Peru, ,35288.0,Poland
+299,1978.0,Italy,1.0,0.0,Austria, ,66695.0,Italy
+300,1978.0,Germany,2.0,2.0,Netherlands, ,40750.0,tie
+301,1978.0,Argentina,0.0,0.0,Brazil, ,37326.0,tie
+302,1978.0,Netherlands,2.0,1.0,Italy, ,67433.0,Netherlands
+303,1978.0,Austria,3.0,2.0,Germany, ,38318.0,Austria
+304,1978.0,Brazil,3.0,1.0,Poland, ,39586.0,Brazil
+305,1978.0,Argentina,6.0,0.0,Peru, ,37315.0,Argentina
+306,1978.0,Brazil,2.0,1.0,Italy, ,69659.0,Brazil
+307,1978.0,Argentina,3.0,1.0,Netherlands,Argentina win after extra time ,71483.0,Argentina
+308,1982.0,Argentina,0.0,1.0,Belgium, ,95000.0,Belgium
+309,1982.0,Italy,0.0,0.0,Poland, ,33000.0,tie
+310,1982.0,Brazil,2.0,1.0,Russia, ,68000.0,Brazil
+311,1982.0,Peru,0.0,0.0,Cameroon, ,11000.0,tie
+312,1982.0,Hungary,10.0,1.0,El Salvador, ,23000.0,Hungary
+313,1982.0,Scotland,5.0,2.0,New Zealand, ,36000.0,Scotland
+314,1982.0,Germany,1.0,2.0,Algeria, ,42000.0,Algeria
+315,1982.0,England,3.0,1.0,France, ,44172.0,England
+316,1982.0,Spain,1.0,1.0,Honduras, ,49562.0,tie
+317,1982.0,Chile,0.0,1.0,Austria, ,22500.0,Austria
+318,1982.0,Czechoslovakia,1.0,1.0,Kuwait, ,25000.0,tie
+319,1982.0,Yugoslavia,0.0,0.0,Northern Ireland, ,25000.0,tie
+320,1982.0,Italy,1.0,1.0,Peru, ,25000.0,tie
+321,1982.0,Argentina,4.0,1.0,Hungary, ,32093.0,Argentina
+322,1982.0,Brazil,4.0,1.0,Scotland, ,47379.0,Brazil
+323,1982.0,Poland,0.0,0.0,Cameroon, ,19000.0,tie
+324,1982.0,Belgium,1.0,0.0,El Salvador, ,15000.0,Belgium
+325,1982.0,Russia,3.0,0.0,New Zealand, ,19000.0,Russia
+326,1982.0,Germany,4.0,1.0,Chile, ,42000.0,Germany
+327,1982.0,England,2.0,0.0,Czechoslovakia, ,41123.0,England
+328,1982.0,Spain,2.0,1.0,Yugoslavia, ,48000.0,Spain
+329,1982.0,Algeria,0.0,2.0,Austria, ,22000.0,Austria
+330,1982.0,France,4.0,1.0,Kuwait, ,30043.0,France
+331,1982.0,Honduras,1.0,1.0,Northern Ireland, ,15000.0,tie
+332,1982.0,Poland,5.0,1.0,Peru, ,25000.0,Poland
+333,1982.0,Belgium,1.0,1.0,Hungary, ,37000.0,tie
+334,1982.0,Russia,2.0,2.0,Scotland, ,45000.0,tie
+335,1982.0,Italy,1.0,1.0,Cameroon, ,20000.0,tie
+336,1982.0,Argentina,2.0,0.0,El Salvador, ,32500.0,Argentina
+337,1982.0,Brazil,4.0,0.0,New Zealand, ,43000.0,Brazil
+338,1982.0,Algeria,3.0,2.0,Chile, ,16000.0,Algeria
+339,1982.0,France,1.0,1.0,Czechoslovakia, ,28000.0,tie
+340,1982.0,Honduras,0.0,1.0,Yugoslavia, ,25000.0,Yugoslavia
+341,1982.0,Germany,1.0,0.0,Austria, ,41000.0,Germany
+342,1982.0,England,1.0,0.0,Kuwait, ,39700.0,England
+343,1982.0,Northern Ireland,1.0,0.0,Spain, ,49562.0,Northern Ireland
+344,1982.0,Austria,0.0,1.0,France, ,37000.0,France
+345,1982.0,Poland,3.0,0.0,Belgium, ,65000.0,Poland
+346,1982.0,Italy,2.0,1.0,Argentina, ,43000.0,Italy
+347,1982.0,Germany,0.0,0.0,England, ,75000.0,tie
+348,1982.0,Austria,2.0,2.0,Northern Ireland, ,20000.0,tie
+349,1982.0,Belgium,0.0,1.0,Russia, ,45000.0,Russia
+350,1982.0,Argentina,1.0,3.0,Brazil, ,44000.0,Brazil
+351,1982.0,Germany,2.0,1.0,Spain, ,90089.0,Germany
+352,1982.0,France,4.0,1.0,Northern Ireland, ,37000.0,France
+353,1982.0,Poland,0.0,0.0,Russia, ,65000.0,tie
+354,1982.0,Italy,3.0,2.0,Brazil, ,44000.0,Italy
+355,1982.0,Spain,0.0,0.0,England, ,75000.0,tie
+356,1982.0,Poland,0.0,2.0,Italy, ,50000.0,Italy
+357,1982.0,Germany,3.0,3.0,France,Germany win on penalties (5 - 4) ,70000.0,Germany
+358,1982.0,Poland,3.0,2.0,France, ,28000.0,Poland
+359,1982.0,Italy,3.0,1.0,Germany, ,90000.0,Italy
+360,1986.0,Bulgaria,1.0,1.0,Italy, ,96000.0,tie
+361,1986.0,Canada,0.0,1.0,France, ,65500.0,France
+362,1986.0,Spain,0.0,1.0,Brazil, ,35748.0,Brazil
+363,1986.0,Russia,6.0,0.0,Hungary, ,16500.0,Russia
+364,1986.0,Argentina,3.0,1.0,South Korea, ,60000.0,Argentina
+365,1986.0,Morocco,0.0,0.0,Poland, ,19900.0,tie
+366,1986.0,Algeria,1.0,1.0,Northern Ireland, ,22000.0,tie
+367,1986.0,Belgium,1.0,2.0,Mexico, ,110000.0,Mexico
+368,1986.0,Portugal,1.0,0.0,England, ,23000.0,Portugal
+369,1986.0,Paraguay,1.0,0.0,Iraq, ,24000.0,Paraguay
+370,1986.0,Scotland,0.0,1.0,Denmark, ,18000.0,Denmark
+371,1986.0,Uruguay,1.0,1.0,Germany, ,30500.0,tie
+372,1986.0,Italy,1.0,1.0,Argentina, ,32000.0,tie
+373,1986.0,France,1.0,1.0,Russia, ,36540.0,tie
+374,1986.0,South Korea,1.0,1.0,Bulgaria, ,45000.0,tie
+375,1986.0,Hungary,2.0,0.0,Canada, ,13800.0,Hungary
+376,1986.0,Brazil,1.0,0.0,Algeria, ,48000.0,Brazil
+377,1986.0,England,0.0,0.0,Morocco, ,20200.0,tie
+378,1986.0,Northern Ireland,1.0,2.0,Spain, ,28000.0,Spain
+379,1986.0,Mexico,1.0,1.0,Paraguay, ,114600.0,tie
+380,1986.0,Poland,1.0,0.0,Portugal, ,19915.0,Poland
+381,1986.0,Iraq,1.0,2.0,Belgium, ,20000.0,Belgium
+382,1986.0,Denmark,6.0,1.0,Uruguay, ,26500.0,Denmark
+383,1986.0,Germany,2.0,1.0,Scotland, ,30000.0,Germany
+384,1986.0,Hungary,0.0,3.0,France, ,31420.0,France
+385,1986.0,Russia,2.0,0.0,Canada, ,14200.0,Russia
+386,1986.0,South Korea,2.0,3.0,Italy, ,20000.0,Italy
+387,1986.0,Argentina,2.0,0.0,Bulgaria, ,65000.0,Argentina
+388,1986.0,Paraguay,2.0,2.0,Belgium, ,16000.0,tie
+389,1986.0,Iraq,0.0,1.0,Mexico, ,103763.0,Mexico
+390,1986.0,Portugal,1.0,3.0,Morocco, ,28000.0,Morocco
+391,1986.0,England,3.0,0.0,Poland, ,22700.0,England
+392,1986.0,Northern Ireland,0.0,3.0,Brazil, ,51000.0,Brazil
+393,1986.0,Algeria,0.0,3.0,Spain, ,23980.0,Spain
+394,1986.0,Scotland,0.0,0.0,Uruguay, ,20000.0,tie
+395,1986.0,Denmark,2.0,0.0,Germany, ,36000.0,Denmark
+396,1986.0,Russia,3.0,4.0,Belgium,Belgium win after extra time ,32277.0,Belgium
+397,1986.0,Mexico,2.0,0.0,Bulgaria, ,114580.0,Mexico
+398,1986.0,Argentina,1.0,0.0,Uruguay, ,26000.0,Argentina
+399,1986.0,Brazil,4.0,0.0,Poland, ,45000.0,Brazil
+400,1986.0,Italy,0.0,2.0,France, ,70000.0,France
+401,1986.0,Morocco,0.0,1.0,Germany, ,19800.0,Germany
+402,1986.0,England,3.0,0.0,Paraguay, ,98728.0,England
+403,1986.0,Denmark,1.0,5.0,Spain, ,38500.0,Spain
+404,1986.0,Brazil,1.0,1.0,France,France win on penalties (3 - 4) ,65000.0,France
+405,1986.0,Germany,0.0,0.0,Mexico,Germany FR win on penalties (4 - 1) ,41700.0,Germany
+406,1986.0,Spain,1.0,1.0,Belgium,Belgium win on penalties (4 - 5) ,45000.0,Belgium
+407,1986.0,Argentina,2.0,1.0,England, ,114580.0,Argentina
+408,1986.0,France,0.0,2.0,Germany, ,45000.0,Germany
+409,1986.0,Argentina,2.0,0.0,Belgium, ,114500.0,Argentina
+410,1986.0,France,4.0,2.0,Belgium,France win after extra time ,21000.0,France
+411,1986.0,Argentina,3.0,2.0,Germany, ,114600.0,Argentina
+412,1990.0,Argentina,0.0,1.0,Cameroon, ,73780.0,Cameroon
+413,1990.0,Russia,0.0,2.0,Romania, ,42907.0,Romania
+414,1990.0,United Arab Emirates,0.0,2.0,Colombia, ,30791.0,Colombia
+415,1990.0,Italy,1.0,0.0,Austria, ,73303.0,Italy
+416,1990.0,USA,1.0,5.0,Czechoslovakia, ,33266.0,Czechoslovakia
+417,1990.0,Brazil,2.0,1.0,Sweden, ,62628.0,Brazil
+418,1990.0,Germany,4.0,1.0,Yugoslavia, ,74765.0,Germany
+419,1990.0,Costa Rica,1.0,0.0,Scotland, ,30867.0,Costa Rica
+420,1990.0,England,1.0,1.0,Republic of Ireland, ,35238.0,tie
+421,1990.0,Belgium,2.0,0.0,South Korea, ,32790.0,Belgium
+422,1990.0,Netherlands,1.0,1.0,Egypt, ,33288.0,tie
+423,1990.0,Uruguay,0.0,0.0,Spain, ,35713.0,tie
+424,1990.0,Argentina,2.0,0.0,Russia, ,55759.0,Argentina
+425,1990.0,Cameroon,2.0,1.0,Romania, ,38687.0,Cameroon
+426,1990.0,Yugoslavia,1.0,0.0,Colombia, ,32257.0,Yugoslavia
+427,1990.0,Italy,1.0,0.0,USA, ,73423.0,Italy
+428,1990.0,Austria,0.0,1.0,Czechoslovakia, ,38962.0,Czechoslovakia
+429,1990.0,Germany,5.0,1.0,United Arab Emirates, ,71169.0,Germany
+430,1990.0,Brazil,1.0,0.0,Costa Rica, ,58007.0,Brazil
+431,1990.0,Sweden,1.0,2.0,Scotland, ,31823.0,Scotland
+432,1990.0,England,0.0,0.0,Netherlands, ,35267.0,tie
+433,1990.0,Republic of Ireland,0.0,0.0,Egypt, ,33288.0,tie
+434,1990.0,South Korea,1.0,3.0,Spain, ,32733.0,Spain
+435,1990.0,Belgium,3.0,1.0,Uruguay, ,33759.0,Belgium
+436,1990.0,Argentina,1.0,1.0,Romania, ,52733.0,tie
+437,1990.0,Cameroon,0.0,4.0,Russia, ,37307.0,Russia
+438,1990.0,Germany,1.0,1.0,Colombia, ,72510.0,tie
+439,1990.0,Yugoslavia,4.0,1.0,United Arab Emirates, ,27833.0,Yugoslavia
+440,1990.0,Italy,2.0,0.0,Czechoslovakia, ,73303.0,Italy
+441,1990.0,Austria,2.0,1.0,USA, ,34857.0,Austria
+442,1990.0,Brazil,1.0,0.0,Scotland, ,62502.0,Brazil
+443,1990.0,Sweden,1.0,2.0,Costa Rica, ,30223.0,Costa Rica
+444,1990.0,South Korea,0.0,1.0,Uruguay, ,29039.0,Uruguay
+445,1990.0,Belgium,1.0,2.0,Spain, ,35950.0,Spain
+446,1990.0,Republic of Ireland,1.0,1.0,Netherlands, ,33288.0,tie
+447,1990.0,England,1.0,0.0,Egypt, ,34959.0,England
+448,1990.0,Cameroon,2.0,1.0,Colombia,Cameroon win after extra time ,50026.0,Cameroon
+449,1990.0,Czechoslovakia,4.0,1.0,Costa Rica, ,47673.0,Czechoslovakia
+450,1990.0,Brazil,0.0,1.0,Argentina, ,61381.0,Argentina
+451,1990.0,Germany,2.0,1.0,Netherlands, ,74559.0,Germany
+452,1990.0,Republic of Ireland,0.0,0.0,Romania,Republic of Ireland win on penalties (5 - 4) ,31818.0,Republic of Ireland
+453,1990.0,Italy,2.0,0.0,Uruguay, ,73303.0,Italy
+454,1990.0,Spain,1.0,2.0,Yugoslavia,Yugoslavia win after extra time ,35500.0,Yugoslavia
+455,1990.0,England,1.0,0.0,Belgium,England win after extra time ,34520.0,England
+456,1990.0,Yugoslavia,0.0,0.0,Argentina,Argentina win on penalties (2 - 3) ,38971.0,Argentina
+457,1990.0,Italy,1.0,0.0,Republic of Ireland, ,73303.0,Italy
+458,1990.0,Germany,1.0,0.0,Czechoslovakia, ,73347.0,Germany
+459,1990.0,England,3.0,2.0,Cameroon,England win after extra time ,55205.0,England
+460,1990.0,Italy,1.0,1.0,Argentina,Argentina win on penalties (3 - 4) ,59978.0,Argentina
+461,1990.0,Germany,1.0,1.0,England,Germany win on penalties (4 - 3) ,62628.0,Germany
+462,1990.0,Italy,2.0,1.0,England, ,51426.0,Italy
+463,1990.0,Germany,1.0,0.0,Argentina, ,73603.0,Germany
+464,1994.0,Spain,2.0,2.0,South Korea, ,56247.0,tie
+465,1994.0,Germany,1.0,0.0,Bolivia, ,63117.0,Germany
+466,1994.0,USA,1.0,1.0,Switzerland, ,73425.0,tie
+467,1994.0,Italy,0.0,1.0,Republic of Ireland, ,75338.0,Republic of Ireland
+468,1994.0,Colombia,1.0,3.0,Romania, ,91856.0,Romania
+469,1994.0,Belgium,1.0,0.0,Morocco, ,61219.0,Belgium
+470,1994.0,Norway,1.0,0.0,Mexico, ,52395.0,Norway
+471,1994.0,Cameroon,2.0,2.0,Sweden, ,93194.0,tie
+472,1994.0,Netherlands,2.0,1.0,Saudi Arabia, ,50535.0,Netherlands
+473,1994.0,Brazil,2.0,0.0,Russia, ,81061.0,Brazil
+474,1994.0,Argentina,4.0,0.0,Greece, ,54456.0,Argentina
+475,1994.0,Nigeria,3.0,0.0,Bulgaria, ,44132.0,Nigeria
+476,1994.0,Germany,1.0,1.0,Spain, ,63113.0,tie
+477,1994.0,Romania,1.0,4.0,Switzerland, ,61428.0,Switzerland
+478,1994.0,USA,2.0,1.0,Colombia, ,93869.0,USA
+479,1994.0,Italy,1.0,0.0,Norway, ,74624.0,Italy
+480,1994.0,South Korea,0.0,0.0,Bolivia, ,54453.0,tie
+481,1994.0,Mexico,2.0,1.0,Republic of Ireland, ,60790.0,Mexico
+482,1994.0,Sweden,3.0,1.0,Russia, ,71528.0,Sweden
+483,1994.0,Brazil,3.0,0.0,Cameroon, ,83401.0,Brazil
+484,1994.0,Belgium,1.0,0.0,Netherlands, ,62387.0,Belgium
+485,1994.0,Saudi Arabia,2.0,1.0,Morocco, ,76322.0,Saudi Arabia
+486,1994.0,Argentina,2.0,1.0,Nigeria, ,54453.0,Argentina
+487,1994.0,Bulgaria,4.0,0.0,Greece, ,63160.0,Bulgaria
+488,1994.0,USA,0.0,1.0,Romania, ,93869.0,Romania
+489,1994.0,Switzerland,0.0,2.0,Colombia, ,83401.0,Colombia
+490,1994.0,Germany,3.0,2.0,South Korea, ,63998.0,Germany
+491,1994.0,Bolivia,1.0,3.0,Spain, ,63089.0,Spain
+492,1994.0,Republic of Ireland,0.0,0.0,Norway, ,72404.0,tie
+493,1994.0,Brazil,1.0,1.0,Sweden, ,77217.0,tie
+494,1994.0,Italy,1.0,1.0,Mexico, ,52535.0,tie
+495,1994.0,Russia,6.0,1.0,Cameroon, ,74914.0,Russia
+496,1994.0,Morocco,1.0,2.0,Netherlands, ,60578.0,Netherlands
+497,1994.0,Belgium,0.0,1.0,Saudi Arabia, ,52959.0,Saudi Arabia
+498,1994.0,Greece,0.0,2.0,Nigeria, ,53001.0,Nigeria
+499,1994.0,Argentina,0.0,2.0,Bulgaria, ,63998.0,Bulgaria
+500,1994.0,Germany,3.0,2.0,Belgium, ,60246.0,Germany
+501,1994.0,Spain,3.0,0.0,Switzerland, ,53121.0,Spain
+502,1994.0,Saudi Arabia,1.0,3.0,Sweden, ,60277.0,Sweden
+503,1994.0,Romania,3.0,2.0,Argentina, ,90469.0,Romania
+504,1994.0,Netherlands,2.0,0.0,Republic of Ireland, ,61355.0,Netherlands
+505,1994.0,Brazil,1.0,0.0,USA, ,84147.0,Brazil
+506,1994.0,Nigeria,1.0,2.0,Italy,Italy win after extra time ,54367.0,Italy
+507,1994.0,Mexico,1.0,1.0,Bulgaria,Bulgaria win on penalties (1 - 3) ,71030.0,Bulgaria
+508,1994.0,Italy,2.0,1.0,Spain, ,53400.0,Italy
+509,1994.0,Netherlands,2.0,3.0,Brazil, ,63500.0,Brazil
+510,1994.0,Bulgaria,2.0,1.0,Germany, ,72000.0,Bulgaria
+511,1994.0,Romania,2.0,2.0,Sweden,Sweden win on penalties (4 - 5) ,83500.0,Sweden
+512,1994.0,Bulgaria,1.0,2.0,Italy, ,74110.0,Italy
+513,1994.0,Sweden,0.0,1.0,Brazil, ,91856.0,Brazil
+514,1994.0,Sweden,4.0,0.0,Bulgaria, ,91500.0,Sweden
+515,1994.0,Brazil,0.0,0.0,Italy,Brazil win on penalties (3 - 2) ,94194.0,Brazil
+516,1998.0,Brazil,2.0,1.0,Scotland, ,80000.0,Brazil
+517,1998.0,Morocco,2.0,2.0,Norway, ,29800.0,tie
+518,1998.0,Italy,2.0,2.0,Chile, ,31800.0,tie
+519,1998.0,Cameroon,1.0,1.0,Austria, ,33500.0,tie
+520,1998.0,Paraguay,0.0,0.0,Bulgaria, ,29800.0,tie
+521,1998.0,Saudi Arabia,0.0,1.0,Denmark, ,38100.0,Denmark
+522,1998.0,France,3.0,0.0,South Africa, ,55000.0,France
+523,1998.0,Spain,2.0,3.0,Nigeria, ,35500.0,Nigeria
+524,1998.0,South Korea,1.0,3.0,Mexico, ,39100.0,Mexico
+525,1998.0,Netherlands,0.0,0.0,Belgium, ,77000.0,tie
+526,1998.0,Argentina,1.0,0.0,Japan, ,33500.0,Argentina
+527,1998.0,Yugoslavia,1.0,0.0,Iran, ,30600.0,Yugoslavia
+528,1998.0,Jamaica,1.0,3.0,Croatia, ,38100.0,Croatia
+529,1998.0,England,2.0,0.0,Tunisia, ,55000.0,England
+530,1998.0,Romania,1.0,0.0,Colombia, ,39100.0,Romania
+531,1998.0,Germany,2.0,0.0,USA, ,45500.0,Germany
+532,1998.0,Scotland,1.0,1.0,Norway, ,31800.0,tie
+533,1998.0,Brazil,3.0,0.0,Morocco, ,35500.0,Brazil
+534,1998.0,Chile,1.0,1.0,Austria, ,30600.0,tie
+535,1998.0,Italy,3.0,0.0,Cameroon, ,29800.0,Italy
+536,1998.0,South Africa,1.0,1.0,Denmark, ,33500.0,tie
+537,1998.0,France,4.0,0.0,Saudi Arabia, ,80000.0,France
+538,1998.0,Nigeria,1.0,0.0,Bulgaria, ,45500.0,Nigeria
+539,1998.0,Spain,0.0,0.0,Paraguay, ,30600.0,tie
+540,1998.0,Japan,0.0,1.0,Croatia, ,35500.0,Croatia
+541,1998.0,Belgium,2.0,2.0,Mexico, ,31800.0,tie
+542,1998.0,Netherlands,5.0,0.0,South Korea, ,55000.0,Netherlands
+543,1998.0,Germany,2.0,2.0,Yugoslavia, ,38100.0,tie
+544,1998.0,Argentina,5.0,0.0,Jamaica, ,45500.0,Argentina
+545,1998.0,USA,1.0,2.0,Iran, ,39100.0,Iran
+546,1998.0,Colombia,1.0,0.0,Tunisia, ,29800.0,Colombia
+547,1998.0,Romania,2.0,1.0,England, ,33500.0,Romania
+548,1998.0,Italy,2.0,1.0,Austria, ,80000.0,Italy
+549,1998.0,Chile,1.0,1.0,Cameroon, ,35500.0,tie
+550,1998.0,Scotland,0.0,3.0,Morocco, ,30600.0,Morocco
+551,1998.0,Brazil,1.0,2.0,Norway, ,55000.0,Norway
+552,1998.0,France,2.0,1.0,Denmark, ,39100.0,France
+553,1998.0,South Africa,2.0,2.0,Saudi Arabia, ,31800.0,tie
+554,1998.0,Spain,6.0,1.0,Bulgaria, ,38100.0,Spain
+555,1998.0,Nigeria,1.0,3.0,Paraguay, ,33500.0,Paraguay
+556,1998.0,Belgium,1.0,1.0,South Korea, ,45500.0,tie
+557,1998.0,Netherlands,2.0,2.0,Mexico, ,30600.0,tie
+558,1998.0,Germany,2.0,0.0,Iran, ,29800.0,Germany
+559,1998.0,USA,0.0,1.0,Yugoslavia, ,35500.0,Yugoslavia
+560,1998.0,Japan,1.0,2.0,Jamaica, ,39100.0,Jamaica
+561,1998.0,Argentina,1.0,0.0,Croatia, ,31800.0,Argentina
+562,1998.0,Romania,1.0,1.0,Tunisia, ,77000.0,tie
+563,1998.0,Colombia,0.0,2.0,England, ,38100.0,England
+564,1998.0,Italy,1.0,0.0,Norway, ,55000.0,Italy
+565,1998.0,Brazil,4.0,1.0,Chile, ,45500.0,Brazil
+566,1998.0,France,1.0,0.0,Paraguay,France win after extra time ,31800.0,France
+567,1998.0,Nigeria,1.0,4.0,Denmark, ,77000.0,Denmark
+568,1998.0,Germany,2.0,1.0,Mexico, ,29800.0,Germany
+569,1998.0,Netherlands,2.0,1.0,Yugoslavia, ,33500.0,Netherlands
+570,1998.0,Romania,0.0,1.0,Croatia, ,31800.0,Croatia
+571,1998.0,Argentina,2.0,2.0,England,Argentina win on penalties (4 - 3) ,30600.0,Argentina
+572,1998.0,Italy,0.0,0.0,France,France win on penalties (3 - 4) ,77000.0,France
+573,1998.0,Brazil,3.0,2.0,Denmark, ,35500.0,Brazil
+574,1998.0,Netherlands,2.0,1.0,Argentina, ,55000.0,Netherlands
+575,1998.0,Germany,0.0,3.0,Croatia, ,39100.0,Croatia
+576,1998.0,Brazil,1.0,1.0,Netherlands,Brazil win on penalties (4 - 2) ,54000.0,Brazil
+577,1998.0,France,2.0,1.0,Croatia, ,76000.0,France
+578,1998.0,Netherlands,1.0,2.0,Croatia, ,45500.0,Croatia
+579,1998.0,Brazil,0.0,3.0,France, ,80000.0,France
+580,2002.0,France,0.0,1.0,Senegal, ,62561.0,Senegal
+581,2002.0,Uruguay,1.0,2.0,Denmark, ,30157.0,Denmark
+582,2002.0,Republic of Ireland,1.0,1.0,Cameroon, ,33679.0,tie
+583,2002.0,Germany,8.0,0.0,Saudi Arabia, ,32218.0,Germany
+584,2002.0,Argentina,1.0,0.0,Nigeria, ,34050.0,Argentina
+585,2002.0,Paraguay,2.0,2.0,South Africa, ,25186.0,tie
+586,2002.0,England,1.0,1.0,Sweden, ,52721.0,tie
+587,2002.0,Spain,3.0,1.0,Slovenia, ,28598.0,Spain
+588,2002.0,Brazil,2.0,1.0,Turkey, ,33842.0,Brazil
+589,2002.0,Italy,2.0,0.0,Ecuador, ,31081.0,Italy
+590,2002.0,Croatia,0.0,1.0,Mexico, ,32239.0,Mexico
+591,2002.0,China PR,0.0,2.0,Costa Rica, ,27217.0,Costa Rica
+592,2002.0,Japan,2.0,2.0,Belgium, ,55256.0,tie
+593,2002.0,South Korea,2.0,0.0,Poland, ,48760.0,South Korea
+594,2002.0,Russia,2.0,0.0,Tunisia, ,30957.0,Russia
+595,2002.0,USA,3.0,2.0,Portugal, ,37306.0,USA
+596,2002.0,Germany,1.0,1.0,Republic of Ireland, ,35854.0,tie
+597,2002.0,Denmark,1.0,1.0,Senegal, ,43500.0,tie
+598,2002.0,Cameroon,1.0,0.0,Saudi Arabia, ,52328.0,Cameroon
+599,2002.0,France,0.0,0.0,Uruguay, ,38289.0,tie
+600,2002.0,Sweden,2.0,1.0,Nigeria, ,36194.0,Sweden
+601,2002.0,Argentina,0.0,1.0,England, ,35927.0,England
+602,2002.0,Spain,3.0,1.0,Paraguay, ,24000.0,Spain
+603,2002.0,South Africa,1.0,0.0,Slovenia, ,47226.0,South Africa
+604,2002.0,Brazil,4.0,0.0,China PR, ,36750.0,Brazil
+605,2002.0,Italy,1.0,2.0,Croatia, ,36472.0,Croatia
+606,2002.0,Costa Rica,1.0,1.0,Turkey, ,42299.0,tie
+607,2002.0,Japan,1.0,0.0,Russia, ,66108.0,Japan
+608,2002.0,Mexico,2.0,1.0,Ecuador, ,45610.0,Mexico
+609,2002.0,South Korea,1.0,1.0,USA, ,60778.0,tie
+610,2002.0,Portugal,4.0,0.0,Poland, ,31000.0,Portugal
+611,2002.0,Tunisia,1.0,1.0,Belgium, ,39700.0,tie
+612,2002.0,Denmark,2.0,0.0,France, ,48100.0,Denmark
+613,2002.0,Senegal,3.0,3.0,Uruguay, ,33681.0,tie
+614,2002.0,Saudi Arabia,0.0,3.0,Republic of Ireland, ,65320.0,Republic of Ireland
+615,2002.0,Cameroon,0.0,2.0,Germany, ,47085.0,Germany
+616,2002.0,Sweden,1.0,1.0,Argentina, ,45777.0,tie
+617,2002.0,Nigeria,0.0,0.0,England, ,44864.0,tie
+618,2002.0,Slovenia,1.0,3.0,Paraguay, ,30176.0,Paraguay
+619,2002.0,South Africa,2.0,3.0,Spain, ,31024.0,Spain
+620,2002.0,Costa Rica,2.0,5.0,Brazil, ,38524.0,Brazil
+621,2002.0,Turkey,3.0,0.0,China PR, ,43605.0,Turkey
+622,2002.0,Ecuador,1.0,0.0,Croatia, ,65862.0,Ecuador
+623,2002.0,Mexico,1.0,1.0,Italy, ,39291.0,tie
+624,2002.0,Tunisia,0.0,2.0,Japan, ,45213.0,Japan
+625,2002.0,Portugal,0.0,1.0,South Korea, ,50239.0,South Korea
+626,2002.0,Poland,3.0,1.0,USA, ,26482.0,Poland
+627,2002.0,Belgium,3.0,2.0,Russia, ,46640.0,Belgium
+628,2002.0,Denmark,0.0,3.0,England, ,40582.0,England
+629,2002.0,Germany,1.0,0.0,Paraguay, ,25176.0,Germany
+630,2002.0,Spain,1.0,1.0,Republic of Ireland,Spain win on penalties (3 - 2) ,38926.0,Spain
+631,2002.0,Sweden,1.0,2.0,Senegal,Win on Golden Goal ,39747.0,Senegal
+632,2002.0,Brazil,2.0,0.0,Belgium, ,40440.0,Brazil
+633,2002.0,Mexico,0.0,2.0,USA, ,36380.0,USA
+634,2002.0,Japan,0.0,1.0,Turkey, ,45666.0,Turkey
+635,2002.0,South Korea,2.0,1.0,Italy,Win on Golden Goal ,38588.0,South Korea
+636,2002.0,England,1.0,2.0,Brazil, ,47436.0,Brazil
+637,2002.0,Germany,1.0,0.0,USA, ,37337.0,Germany
+638,2002.0,Senegal,0.0,1.0,Turkey,Win on Golden Goal ,44233.0,Turkey
+639,2002.0,Spain,0.0,0.0,South Korea,Korea Republic win on penalties (3 - 5) ,42114.0,South Korea
+640,2002.0,Germany,1.0,0.0,South Korea, ,65256.0,Germany
+641,2002.0,Brazil,1.0,0.0,Turkey, ,61058.0,Brazil
+642,2002.0,South Korea,2.0,3.0,Turkey, ,63483.0,Turkey
+643,2002.0,Germany,0.0,2.0,Brazil, ,69029.0,Brazil
+644,2006.0,Germany,4.0,2.0,Costa Rica, ,66000.0,Germany
+645,2006.0,Poland,0.0,2.0,Ecuador, ,52000.0,Ecuador
+646,2006.0,England,1.0,0.0,Paraguay, ,48000.0,England
+647,2006.0,Trinidad and Tobago,0.0,0.0,Sweden, ,62959.0,tie
+648,2006.0,Argentina,2.0,1.0,Cote d'Ivoire, ,49480.0,Argentina
+649,2006.0,Serbia and Montenegro,0.0,1.0,Netherlands, ,43000.0,Netherlands
+650,2006.0,Mexico,3.0,1.0,Iran, ,41000.0,Mexico
+651,2006.0,Angola,0.0,1.0,Portugal, ,45000.0,Portugal
+652,2006.0,Australia,3.0,1.0,Japan, ,46000.0,Australia
+653,2006.0,USA,0.0,3.0,Czech Republic, ,52000.0,Czech Republic
+654,2006.0,Italy,2.0,0.0,Ghana, ,43000.0,Italy
+655,2006.0,South Korea,2.0,1.0,Togo, ,48000.0,South Korea
+656,2006.0,France,0.0,0.0,Switzerland, ,52000.0,tie
+657,2006.0,Brazil,1.0,0.0,Croatia, ,72000.0,Brazil
+658,2006.0,Spain,4.0,0.0,Ukraine, ,43000.0,Spain
+659,2006.0,Tunisia,2.0,2.0,Saudi Arabia, ,66000.0,tie
+660,2006.0,Germany,1.0,0.0,Poland, ,65000.0,Germany
+661,2006.0,Ecuador,3.0,0.0,Costa Rica, ,50000.0,Ecuador
+662,2006.0,England,2.0,0.0,Trinidad and Tobago, ,41000.0,England
+663,2006.0,Sweden,1.0,0.0,Paraguay, ,72000.0,Sweden
+664,2006.0,Argentina,6.0,0.0,Serbia and Montenegro, ,52000.0,Argentina
+665,2006.0,Netherlands,2.0,1.0,Cote d'Ivoire, ,52000.0,Netherlands
+666,2006.0,Mexico,0.0,0.0,Angola, ,43000.0,tie
+667,2006.0,Portugal,2.0,0.0,Iran, ,48000.0,Portugal
+668,2006.0,Czech Republic,0.0,2.0,Ghana, ,45000.0,Ghana
+669,2006.0,Italy,1.0,1.0,USA, ,46000.0,tie
+670,2006.0,Japan,0.0,0.0,Croatia, ,41000.0,tie
+671,2006.0,Brazil,2.0,0.0,Australia, ,66000.0,Brazil
+672,2006.0,France,1.0,1.0,South Korea, ,43000.0,tie
+673,2006.0,Togo,0.0,2.0,Switzerland, ,65000.0,Switzerland
+674,2006.0,Saudi Arabia,0.0,4.0,Ukraine, ,50000.0,Ukraine
+675,2006.0,Spain,3.0,1.0,Tunisia, ,52000.0,Spain
+676,2006.0,Ecuador,0.0,3.0,Germany, ,72000.0,Germany
+677,2006.0,Costa Rica,1.0,2.0,Poland, ,43000.0,Poland
+678,2006.0,Sweden,2.0,2.0,England, ,45000.0,tie
+679,2006.0,Paraguay,2.0,0.0,Trinidad and Tobago, ,46000.0,Paraguay
+680,2006.0,Iran,1.0,1.0,Angola, ,38000.0,tie
+681,2006.0,Portugal,2.0,1.0,Mexico, ,52000.0,Portugal
+682,2006.0,Netherlands,0.0,0.0,Argentina, ,48000.0,tie
+683,2006.0,Cote d'Ivoire,3.0,2.0,Serbia and Montenegro, ,66000.0,Cote d'Ivoire
+684,2006.0,Czech Republic,0.0,2.0,Italy, ,50000.0,Italy
+685,2006.0,Ghana,2.0,1.0,USA, ,41000.0,Ghana
+686,2006.0,Japan,1.0,4.0,Brazil, ,65000.0,Brazil
+687,2006.0,Croatia,2.0,2.0,Australia, ,52000.0,tie
+688,2006.0,Ukraine,1.0,0.0,Tunisia, ,72000.0,Ukraine
+689,2006.0,Saudi Arabia,0.0,1.0,Spain, ,46000.0,Spain
+690,2006.0,Togo,0.0,2.0,France, ,45000.0,France
+691,2006.0,Switzerland,2.0,0.0,South Korea, ,43000.0,Switzerland
+692,2006.0,Germany,2.0,0.0,Sweden, ,66000.0,Germany
+693,2006.0,Argentina,2.0,1.0,Mexico,Argentina win after extra time ,43000.0,Argentina
+694,2006.0,England,1.0,0.0,Ecuador, ,52000.0,England
+695,2006.0,Portugal,1.0,0.0,Netherlands, ,41000.0,Portugal
+696,2006.0,Italy,1.0,0.0,Australia, ,46000.0,Italy
+697,2006.0,Switzerland,0.0,0.0,Ukraine,Ukraine win on penalties (0 - 3) ,45000.0,Ukraine
+698,2006.0,Brazil,3.0,0.0,Ghana, ,65000.0,Brazil
+699,2006.0,Spain,1.0,3.0,France, ,43000.0,France
+700,2006.0,Germany,1.0,1.0,Argentina,Germany win on penalties (4 - 2) ,72000.0,Germany
+701,2006.0,Italy,3.0,0.0,Ukraine, ,50000.0,Italy
+702,2006.0,England,0.0,0.0,Portugal,Portugal win on penalties (1 - 3) ,52000.0,Portugal
+703,2006.0,Brazil,0.0,1.0,France, ,48000.0,France
+704,2006.0,Germany,0.0,2.0,Italy,Italy win after extra time ,65000.0,Italy
+705,2006.0,Portugal,0.0,1.0,France, ,66000.0,France
+706,2006.0,Germany,3.0,1.0,Portugal, ,52000.0,Germany
+707,2006.0,Italy,1.0,1.0,France,Italy win on penalties (5 - 3) ,69000.0,Italy
+708,2010.0,South Africa,1.0,1.0,Mexico, ,84490.0,tie
+709,2010.0,Uruguay,0.0,0.0,France, ,64100.0,tie
+710,2010.0,South Korea,2.0,0.0,Greece, ,31513.0,South Korea
+711,2010.0,Argentina,1.0,0.0,Nigeria, ,55686.0,Argentina
+712,2010.0,England,1.0,1.0,USA, ,38646.0,tie
+713,2010.0,Algeria,0.0,1.0,Slovenia, ,30325.0,Slovenia
+714,2010.0,Serbia,0.0,1.0,Ghana, ,38833.0,Ghana
+715,2010.0,Germany,4.0,0.0,Australia, ,62660.0,Germany
+716,2010.0,Netherlands,2.0,0.0,Denmark, ,83465.0,Netherlands
+717,2010.0,Japan,1.0,0.0,Cameroon, ,30620.0,Japan
+718,2010.0,Italy,1.0,1.0,Paraguay, ,62869.0,tie
+719,2010.0,New Zealand,1.0,1.0,Slovakia, ,23871.0,tie
+720,2010.0,Cote d'Ivoire,0.0,0.0,Portugal, ,37034.0,tie
+721,2010.0,Brazil,2.0,1.0,Korea DPR, ,54331.0,Brazil
+722,2010.0,Honduras,0.0,1.0,Chile, ,32664.0,Chile
+723,2010.0,Spain,0.0,1.0,Switzerland, ,62453.0,Switzerland
+724,2010.0,South Africa,0.0,3.0,Uruguay, ,42658.0,Uruguay
+725,2010.0,Argentina,4.0,1.0,South Korea, ,82174.0,Argentina
+726,2010.0,Greece,2.0,1.0,Nigeria, ,31593.0,Greece
+727,2010.0,France,0.0,2.0,Mexico, ,35370.0,Mexico
+728,2010.0,Germany,0.0,1.0,Serbia, ,38294.0,Serbia
+729,2010.0,Slovenia,2.0,2.0,USA, ,45573.0,tie
+730,2010.0,England,0.0,0.0,Algeria, ,64100.0,tie
+731,2010.0,Netherlands,1.0,0.0,Japan, ,62010.0,Netherlands
+732,2010.0,Ghana,1.0,1.0,Australia, ,34812.0,tie
+733,2010.0,Cameroon,1.0,2.0,Denmark, ,38074.0,Denmark
+734,2010.0,Slovakia,0.0,2.0,Paraguay, ,26643.0,Paraguay
+735,2010.0,Italy,1.0,1.0,New Zealand, ,38229.0,tie
+736,2010.0,Brazil,3.0,1.0,Cote d'Ivoire, ,84455.0,Brazil
+737,2010.0,Portugal,7.0,0.0,Korea DPR, ,63644.0,Portugal
+738,2010.0,Chile,1.0,0.0,Switzerland, ,34872.0,Chile
+739,2010.0,Spain,2.0,0.0,Honduras, ,54386.0,Spain
+740,2010.0,Mexico,0.0,1.0,Uruguay, ,33425.0,Uruguay
+741,2010.0,France,1.0,2.0,South Africa, ,39415.0,South Africa
+742,2010.0,Nigeria,2.0,2.0,South Korea, ,61874.0,tie
+743,2010.0,Greece,0.0,2.0,Argentina, ,38891.0,Argentina
+744,2010.0,Slovenia,0.0,1.0,England, ,36893.0,England
+745,2010.0,USA,1.0,0.0,Algeria, ,35827.0,USA
+746,2010.0,Ghana,0.0,1.0,Germany, ,83391.0,Germany
+747,2010.0,Australia,2.0,1.0,Serbia, ,37836.0,Australia
+748,2010.0,Slovakia,3.0,2.0,Italy, ,53412.0,Slovakia
+749,2010.0,Paraguay,0.0,0.0,New Zealand, ,34850.0,tie
+750,2010.0,Denmark,1.0,3.0,Japan, ,27967.0,Japan
+751,2010.0,Cameroon,1.0,2.0,Netherlands, ,63093.0,Netherlands
+752,2010.0,Portugal,0.0,0.0,Brazil, ,62712.0,tie
+753,2010.0,Korea DPR,0.0,3.0,Cote d'Ivoire, ,34763.0,Cote d'Ivoire
+754,2010.0,Chile,1.0,2.0,Spain, ,41958.0,Spain
+755,2010.0,Switzerland,0.0,0.0,Honduras, ,28042.0,tie
+756,2010.0,Uruguay,2.0,1.0,South Korea, ,30597.0,Uruguay
+757,2010.0,USA,1.0,2.0,Ghana,Ghana win after extra time ,34976.0,Ghana
+758,2010.0,Germany,4.0,1.0,England, ,40510.0,Germany
+759,2010.0,Argentina,3.0,1.0,Mexico, ,84377.0,Argentina
+760,2010.0,Netherlands,2.0,1.0,Slovakia, ,61962.0,Netherlands
+761,2010.0,Brazil,3.0,0.0,Chile, ,54096.0,Brazil
+762,2010.0,Paraguay,0.0,0.0,Japan,Paraguay win on penalties (5 - 3) ,36742.0,Paraguay
+763,2010.0,Spain,1.0,0.0,Portugal, ,62955.0,Spain
+764,2010.0,Netherlands,2.0,1.0,Brazil, ,40186.0,Netherlands
+765,2010.0,Uruguay,1.0,1.0,Ghana,Uruguay win on penalties (4 - 2) ,84017.0,Uruguay
+766,2010.0,Argentina,0.0,4.0,Germany, ,64100.0,Germany
+767,2010.0,Paraguay,0.0,1.0,Spain, ,55359.0,Spain
+768,2010.0,Uruguay,2.0,3.0,Netherlands, ,62479.0,Netherlands
+769,2010.0,Germany,0.0,1.0,Spain, ,60960.0,Spain
+770,2010.0,Uruguay,2.0,3.0,Germany, ,36254.0,Germany
+771,2010.0,Netherlands,0.0,1.0,Spain,Spain win after extra time ,84490.0,Spain
+772,2014.0,Brazil,3.0,1.0,Croatia, ,62103.0,Brazil
+773,2014.0,Mexico,1.0,0.0,Cameroon, ,39216.0,Mexico
+774,2014.0,Spain,1.0,5.0,Netherlands, ,48173.0,Netherlands
+775,2014.0,Chile,3.0,1.0,Australia, ,40275.0,Chile
+776,2014.0,Colombia,3.0,0.0,Greece, ,57174.0,Colombia
+777,2014.0,Uruguay,1.0,3.0,Costa Rica, ,58679.0,Costa Rica
+778,2014.0,England,1.0,2.0,Italy, ,39800.0,Italy
+779,2014.0,Cote d'Ivoire,2.0,1.0,Japan, ,40267.0,Cote d'Ivoire
+780,2014.0,Switzerland,2.0,1.0,Ecuador, ,68351.0,Switzerland
+781,2014.0,France,3.0,0.0,Honduras, ,43012.0,France
+782,2014.0,Argentina,2.0,1.0,Bosnia and Herzegovina, ,74738.0,Argentina
+783,2014.0,Germany,4.0,0.0,Portugal, ,51081.0,Germany
+784,2014.0,Iran,0.0,0.0,Nigeria, ,39081.0,tie
+785,2014.0,Ghana,1.0,2.0,USA, ,39760.0,USA
+786,2014.0,Belgium,2.0,1.0,Algeria, ,56800.0,Belgium
+787,2014.0,Brazil,0.0,0.0,Mexico, ,60342.0,tie
+788,2014.0,Russia,1.0,1.0,South Korea, ,37603.0,tie
+789,2014.0,Australia,2.0,3.0,Netherlands, ,42877.0,Netherlands
+790,2014.0,Spain,0.0,2.0,Chile, ,74101.0,Chile
+791,2014.0,Cameroon,0.0,4.0,Croatia, ,39982.0,Croatia
+792,2014.0,Colombia,2.0,1.0,Cote d'Ivoire, ,68748.0,Colombia
+793,2014.0,Uruguay,2.0,1.0,England, ,62575.0,Uruguay
+794,2014.0,Japan,0.0,0.0,Greece, ,39485.0,tie
+795,2014.0,Italy,0.0,1.0,Costa Rica, ,40285.0,Costa Rica
+796,2014.0,Switzerland,2.0,5.0,France, ,51003.0,France
+797,2014.0,Honduras,1.0,2.0,Ecuador, ,39224.0,Ecuador
+798,2014.0,Argentina,1.0,0.0,Iran, ,57698.0,Argentina
+799,2014.0,Germany,2.0,2.0,Ghana, ,59621.0,tie
+800,2014.0,Nigeria,1.0,0.0,Bosnia and Herzegovina, ,40499.0,Nigeria
+801,2014.0,Belgium,1.0,0.0,Russia, ,73819.0,Belgium
+802,2014.0,South Korea,2.0,4.0,Algeria, ,42732.0,Algeria
+803,2014.0,USA,2.0,2.0,Portugal, ,40123.0,tie
+804,2014.0,Australia,0.0,3.0,Spain, ,39375.0,Spain
+805,2014.0,Netherlands,2.0,0.0,Chile, ,62996.0,Netherlands
+806,2014.0,Cameroon,1.0,4.0,Brazil, ,69112.0,Brazil
+807,2014.0,Croatia,1.0,3.0,Mexico, ,41212.0,Mexico
+808,2014.0,Italy,0.0,1.0,Uruguay, ,39706.0,Uruguay
+809,2014.0,Costa Rica,0.0,0.0,England, ,57823.0,tie
+810,2014.0,Japan,1.0,4.0,Colombia, ,40340.0,Colombia
+811,2014.0,Greece,2.0,1.0,Cote d'Ivoire, ,59095.0,Greece
+812,2014.0,Nigeria,2.0,3.0,Argentina, ,43285.0,Argentina
+813,2014.0,Bosnia and Herzegovina,3.0,1.0,Iran, ,48011.0,Bosnia and Herzegovina
+814,2014.0,Honduras,0.0,3.0,Switzerland, ,40322.0,Switzerland
+815,2014.0,Ecuador,0.0,0.0,France, ,73749.0,tie
+816,2014.0,USA,0.0,1.0,Germany, ,41876.0,Germany
+817,2014.0,Portugal,2.0,1.0,Ghana, ,67540.0,Portugal
+818,2014.0,South Korea,0.0,1.0,Belgium, ,61397.0,Belgium
+819,2014.0,Algeria,1.0,1.0,Russia, ,39311.0,tie
+820,2014.0,Brazil,1.0,1.0,Chile,Brazil win on penalties (3 - 2) ,57714.0,Brazil
+821,2014.0,Colombia,2.0,0.0,Uruguay, ,73804.0,Colombia
+822,2014.0,France,2.0,0.0,Nigeria, ,67882.0,France
+823,2014.0,Germany,2.0,1.0,Algeria,Germany win after extra time ,,Germany
+824,2014.0,Brazil,2.0,1.0,Colombia, ,60342.0,Brazil
+825,2014.0,France,0.0,1.0,Germany, ,74240.0,Germany
+826,2014.0,Brazil,1.0,7.0,Germany, ,58141.0,Germany
+827,2014.0,Brazil,0.0,3.0,Netherlands, ,68034.0,Netherlands
+828,2014.0,Germany,1.0,0.0,Argentina,Germany win after extra time ,74738.0,Germany
+829,2014.0,Netherlands,0.0,0.0,Argentina,Argentina win on penalties (2 - 4) ,63267.0,Argentina
+830,2014.0,Netherlands,0.0,0.0,Costa Rica,Netherlands win on penalties (4 - 3) ,51179.0,Netherlands
+831,2014.0,Argentina,1.0,0.0,Belgium, ,68551.0,Argentina
+832,2014.0,Netherlands,2.0,1.0,Mexico, ,58817.0,Netherlands
+833,2014.0,Costa Rica,1.0,1.0,Greece,Costa Rica win on penalties (5 - 3) ,41242.0,Costa Rica
+834,2014.0,Argentina,1.0,0.0,Switzerland,Argentina win after extra time ,63255.0,Argentina
+835,2014.0,Belgium,2.0,1.0,USA,Belgium win after extra time ,51227.0,Belgium
+836,2014.0,Brazil,1.0,1.0,Chile,Brazil win on penalties (3 - 2) ,57714.0,Brazil
+837,2014.0,Colombia,2.0,0.0,Uruguay, ,73804.0,Colombia
+838,2014.0,Netherlands,2.0,1.0,Mexico, ,58817.0,Netherlands
+839,2014.0,Costa Rica,1.0,1.0,Greece,Costa Rica win on penalties (5 - 3) ,41242.0,Costa Rica
+840,2014.0,France,2.0,0.0,Nigeria, ,67882.0,France
+841,2014.0,Germany,2.0,1.0,Algeria,Germany win after extra time ,,Germany
+842,2014.0,Argentina,1.0,0.0,Switzerland,Argentina win after extra time ,63255.0,Argentina
+843,2014.0,Belgium,2.0,1.0,USA,Belgium win after extra time ,51227.0,Belgium
+844,2014.0,France,0.0,1.0,Germany, ,74240.0,Germany
+845,2014.0,Brazil,2.0,1.0,Colombia, ,60342.0,Brazil
+846,2014.0,Argentina,1.0,0.0,Belgium, ,68551.0,Argentina
+847,2014.0,Netherlands,0.0,0.0,Costa Rica,Netherlands win on penalties (4 - 3) ,51179.0,Netherlands
+848,2014.0,Brazil,1.0,7.0,Germany, ,58141.0,Germany
+849,2014.0,Netherlands,0.0,0.0,Argentina,Argentina win on penalties (2 - 4) ,63267.0,Argentina
+850,2014.0,Brazil,0.0,3.0,Netherlands, ,68034.0,Netherlands
+851,2014.0,Germany,1.0,0.0,Argentina,Germany win after extra time ,74738.0,Germany
+852,2018.0,Russia,5.0,0.0,Saudi Arabia, ,78011.0,Russia
+853,2018.0,Egypt,0.0,1.0,Uruguay, ,27015.0,Uruguay
+854,2018.0,Russia,3.0,1.0,Egypt, ,64468.0,Russia
+855,2018.0,Uruguay,1.0,0.0,Saudi Arabia, ,42678.0,Uruguay
+856,2018.0,Uruguay,3.0,0.0,Russia, ,41970.0,Uruguay
+857,2018.0,Saudi Arabia,2.0,1.0,Egypt, ,36823.0,Saudi Arabia
+858,2018.0,Morocco,0.0,1.0,Iran, ,62548.0,Iran
+859,2018.0,Portugal,3.0,3.0,Spain, ,43866.0,tie
+860,2018.0,Portugal,1.0,0.0,Morocco, ,78011.0,Portugal
+861,2018.0,Iran,0.0,1.0,Spain, ,42718.0,Spain
+862,2018.0,Iran,1.0,1.0,Portugal, ,41685.0,tie
+863,2018.0,Spain,2.0,2.0,Morocco, ,33973.0,tie
+864,2018.0,France,2.0,1.0,Australia, ,41279.0,France
+865,2018.0,Peru,0.0,1.0,Denmark, ,40502.0,Denmark
+866,2018.0,Denmark,1.0,1.0,Australia, ,40727.0,tie
+867,2018.0,France,1.0,0.0,Peru, ,32789.0,France
+868,2018.0,Denmark,0.0,0.0,France, ,78011.0,tie
+869,2018.0,Australia,0.0,2.0,Peru, ,44073.0,Peru
+870,2018.0,Argentina,1.0,1.0,Iceland, ,44190.0,tie
+871,2018.0,Croatia,2.0,0.0,Nigeria, ,31136.0,Croatia
+872,2018.0,Argentina,0.0,3.0,Croatia, ,43319.0,Croatia
+873,2018.0,Nigeria,2.0,0.0,Iceland, ,40904.0,Nigeria
+874,2018.0,Nigeria,1.0,2.0,Argentina, ,64468.0,Argentina
+875,2018.0,Iceland,1.0,2.0,Croatia, ,43472.0,Croatia
+876,2018.0,Costa Rica,0.0,1.0,Serbia, ,41432.0,Serbia
+877,2018.0,Brazil,1.0,1.0,Switzerland, ,43109.0,tie
+878,2018.0,Brazil,2.0,0.0,Costa Rica, ,64468.0,Brazil
+879,2018.0,Serbia,1.0,2.0,Switzerland, ,33167.0,Switzerland
+880,2018.0,Serbia,0.0,2.0,Brazil, ,44190.0,Brazil
+881,2018.0,Switzerland,2.0,2.0,Costa Rica, ,43319.0,tie
+882,2018.0,Germany,0.0,1.0,Mexico, ,78011.0,Mexico
+883,2018.0,Sweden,1.0,0.0,South Korea, ,42300.0,Sweden
+884,2018.0,South Korea,1.0,2.0,Mexico, ,43472.0,Mexico
+885,2018.0,Germany,2.0,1.0,Sweden, ,44835.0,Germany
+886,2018.0,South Korea,2.0,0.0,Germany, ,41835.0,South Korea
+887,2018.0,Mexico,0.0,3.0,Sweden, ,33061.0,Sweden
+888,2018.0,Belgium,3.0,0.0,Panama, ,43257.0,Belgium
+889,2018.0,Tunisia,1.0,2.0,England, ,41064.0,England
+890,2018.0,Belgium,5.0,2.0,Tunisia, ,44190.0,Belgium
+891,2018.0,England,6.0,1.0,Panama, ,43319.0,England
+892,2018.0,England,0.0,1.0,Belgium, ,33973.0,Belgium
+893,2018.0,Panama,1.0,2.0,Tunisia, ,37168.0,Tunisia
+894,2018.0,Colombia,1.0,2.0,Japan, ,40842.0,Japan
+895,2018.0,Poland,1.0,2.0,Senegal, ,44190.0,Senegal
+896,2018.0,Japan,2.0,2.0,Senegal, ,32572.0,tie
+897,2018.0,Poland,0.0,3.0,Colombia, ,42873.0,Colombia
+898,2018.0,Japan,0.0,1.0,Poland, ,42189.0,Poland
+899,2018.0,Senegal,0.0,1.0,Colombia, ,41970.0,Colombia
+900,2018.0,France,4.0,3.0,Argentina, ,42873.0,France
+901,2018.0,Uruguay,2.0,1.0,Portugal, ,44287.0,Uruguay
+902,2018.0,Spain,1.0,1.0,Russia,Spain win on penalties (3-4),78011.0,Spain
+903,2018.0,Croatia,1.0,1.0,Denmark,Croatia win on penalties (3-2),40851.0,Croatia
+904,2018.0,Brazil,2.0,0.0,Mexico, ,41970.0,Brazil
+905,2018.0,Belgium,3.0,2.0,Japan, ,64042.0,Belgium
+906,2018.0,Sweden,1.0,0.0,Switzerland, ,64042.0,Sweden
+907,2018.0,Colombia,1.0,1.0,England,England win on penalties (4-3),44190.0,England
+908,2018.0,Uruguay,0.0,2.0,France, ,43319.0,France
+909,2018.0,Brazil,1.0,2.0,Belgium, ,42873.0,Belgium
+910,2018.0,Sweden,0.0,2.0,England, ,39991.0,England
+911,2018.0,Russia,2.0,2.0,Croatia,Croatia win on penalties (4-3),44287.0,Croatia
+912,2018.0,France,1.0,0.0,Belgium, ,64286.0,France
+913,2018.0,Croatia,2.0,1.0,England, ,78011.0,Croatia
+914,2018.0,Belgium,2.0,0.0,England, ,64406.0,Belgium
+915,2018.0,France,4.0,2.0,Croatia, ,78011.0,France
+916,2022.0,Qatar,0.0,2.0,Ecuador, ,67372.0,Ecuador
+917,2022.0,Senegal,0.0,2.0,Netherlands, ,41721.0,Netherlands
+918,2022.0,Qatar,1.0,3.0,Senegal, ,41797.0,Senegal
+919,2022.0,Netherlands,1.0,1.0,Ecuador, ,44833.0,tie
+920,2022.0,Ecuador,1.0,2.0,Senegal, ,44569.0,Senegal
+921,2022.0,Netherlands,2.0,0.0,Qatar, ,66784.0,Netherlands
+922,2022.0,England,6.0,2.0,Iran, ,45334.0,England
+923,2022.0,USA,1.0,1.0,Wales, ,43418.0,tie
+924,2022.0,Wales,0.0,2.0,Iran, ,40875.0,Iran
+925,2022.0,England,0.0,0.0,USA, ,68463.0,tie
+926,2022.0,Wales,0.0,3.0,England, ,44297.0,England
+927,2022.0,Iran,0.0,1.0,USA, ,42127.0,USA
+928,2022.0,Argentina,1.0,2.0,Saudi Arabia, ,88012.0,Saudi Arabia
+929,2022.0,Mexico,0.0,0.0,Poland, ,39369.0,tie
+930,2022.0,Poland,2.0,0.0,Saudi Arabia, ,44259.0,Poland
+931,2022.0,Argentina,2.0,0.0,Mexico, ,88966.0,Argentina
+932,2022.0,Poland,0.0,2.0,Argentina, ,44089.0,Argentina
+933,2022.0,Saudi Arabia,1.0,2.0,Mexico, ,84985.0,Mexico
+934,2022.0,Denmark,0.0,0.0,Tunisia, ,42925.0,tie
+935,2022.0,France,4.0,1.0,Australia, ,40875.0,France
+936,2022.0,Tunisia,0.0,1.0,Australia, ,41823.0,Australia
+937,2022.0,France,2.0,1.0,Denmark, ,42860.0,France
+938,2022.0,Australia,1.0,0.0,Denmark, ,41232.0,Australia
+939,2022.0,Tunisia,1.0,0.0,France, ,43627.0,Tunisia
+940,2022.0,Germany,1.0,2.0,Japan, ,42608.0,Japan
+941,2022.0,Spain,7.0,0.0,Costa Rica, ,40013.0,Spain
+942,2022.0,Japan,0.0,1.0,Costa Rica, ,41479.0,Costa Rica
+943,2022.0,Spain,1.0,1.0,Germany, ,68895.0,tie
+944,2022.0,Japan,2.0,1.0,Spain, ,44851.0,Japan
+945,2022.0,Costa Rica,2.0,4.0,Germany, ,67054.0,Germany
+946,2022.0,Morocco,0.0,0.0,Croatia, ,59407.0,tie
+947,2022.0,Belgium,1.0,0.0,Canada,40432,,Belgium
+948,2022.0,Belgium,0.0,2.0,Morocco,43738,,Morocco
+949,2022.0,Croatia,4.0,1.0,Canada, ,44374.0,Croatia
+950,2022.0,Croatia,0.0,0.0,Belgium, ,43984.0,tie
+951,2022.0,Canada,1.0,2.0,Morocco, ,43102.0,Morocco
+952,2022.0,Switzerland,1.0,0.0,Cameroon, ,39089.0,Switzerland
+953,2022.0,Brazil,2.0,0.0,Serbia, ,88103.0,Brazil
+954,2022.0,Cameroon,3.0,3.0,Serbia, ,39789.0,tie
+955,2022.0,Brazil,1.0,0.0,Switzerland, ,43649.0,Brazil
+956,2022.0,Serbia,2.0,3.0,Switzerland, ,41378.0,Switzerland
+957,2022.0,Cameroon,1.0,0.0,Brazil, ,85986.0,Cameroon
+958,2022.0,Uruguay,0.0,0.0,South Korea, ,41663.0,tie
+959,2022.0,Portugal,3.0,2.0,Ghana, ,42662.0,Portugal
+960,2022.0,South Korea,2.0,3.0,Ghana, ,43983.0,Ghana
+961,2022.0,Portugal,2.0,0.0,Uruguay, ,88668.0,Portugal
+962,2022.0,Ghana,0.0,2.0,Uruguay, ,43443.0,Uruguay
+963,2022.0,South Korea,2.0,1.0,Portugal, ,44097.0,South Korea
+964,2022.0,Netherlands,3.0,1.0,USA, ,44846.0,Netherlands
+965,2022.0,Argentina,2.0,1.0,Australia, ,45032.0,Argentina
+966,2022.0,France,3.0,1.0,Poland, ,40989.0,France
+967,2022.0,England,3.0,0.0,Senegal, ,65985.0,England
+968,2022.0,Japan,1.0,1.0,Croatia,Croatia win on penalties (3-1),42523.0,Croatia
+969,2022.0,Brazil,4.0,1.0,South Korea, ,43847.0,Brazil
+970,2022.0,Morocco,0.0,0.0,Spain,Morocco win on penalties (3-0),44667.0,Morocco
+971,2022.0,Portugal,6.0,1.0,Switzerland, ,83720.0,Portugal
+972,2022.0,Croatia,1.0,1.0,Brazil,Croatia win on penalties (4-2),43893.0,Croatia
+973,2022.0,Netherlands,2.0,2.0,Argentina,Argentina win in penalties (4-3),88235.0,Argentina
+974,2022.0,Morocco,1.0,0.0,Portugal, ,44198.0,Morocco
+975,2022.0,England,1.0,2.0,France, ,68895.0,France
+976,2022.0,Argentina,3.0,0.0,Croatia, ,88966.0,Argentina
+977,2022.0,France,2.0,0.0,Morocco, ,68294.0,France
+978,2022.0,Croatia,2.0,1.0,Morocco, ,44137.0,Croatia
+979,2022.0,Argentina,3.0,3.0,France,Argentina win in penalties (4-2),88966.0,Argentina
